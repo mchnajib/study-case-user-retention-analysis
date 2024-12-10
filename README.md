@@ -1,0 +1,1 @@
+User retention analysis atau analisis retensi pengguna adalah proses untuk memahami perilaku dan metrik pengguna dalam rangka memahami faktor-faktor yang mendorong retensi dan churn pelanggan. Analisis ini dapat membantu perusahaan untuk mempertahankan basis pelanggan yang menguntungkan dengan meningkatkan retensi dan tingkat perolehan pengguna baru.
